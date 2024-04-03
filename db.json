@@ -134,18 +134,6 @@
       "id": 1,
       "categoryName": "hindi",
       "allVideos": []
-    },
-    {
-      "id": 2,
-      "categoryName": "best",
-      "allVideos": [
-        {
-          "id": "2",
-          "name": "hindi yesudas",
-          "url": "https://images.indianexpress.com/2018/01/yesudas-birthday-tamil-songs-1200.jpg",
-          "link": "https://www.youtube.com/embed/huN_uYEAyjc"
-        }
-      ]
     }
   ]
 }
